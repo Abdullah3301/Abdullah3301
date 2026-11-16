@@ -5,3 +5,7 @@
     width="100%"
   />
 </a>
+
+<img src="./Cloud_Workshop.gif" alt="Cloud and DevOps stack animation" width="100%" />
+
+
